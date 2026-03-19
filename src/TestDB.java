@@ -1,3 +1,5 @@
+import module1_authentication.DBConnection;
+
 import java.sql.Connection;
 
 public class TestDB {

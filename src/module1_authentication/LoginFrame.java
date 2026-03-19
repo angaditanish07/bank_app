@@ -199,7 +199,7 @@ public class LoginFrame extends JFrame {
     }
 
     private void openRegister() {
-        new RegisterFrameEnhanced();
+        new RegisterFrame();
         dispose();
     }
 
